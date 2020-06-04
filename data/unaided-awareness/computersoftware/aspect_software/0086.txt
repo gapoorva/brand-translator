@@ -1,0 +1,1 @@
+aspect aspectj intertype

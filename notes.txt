@@ -1,0 +1,2 @@
+https://www.kaggle.com/peopledatalabssf/free-7-million-company-dataset/data?select=companies_sorted.csv
+https://keras.io/examples/nlp/text_classification_from_scratch/

@@ -1,0 +1,705 @@
+<div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><caption class="summary">NX (Software)</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Siemens_NX_Logo.png" class="image"><img alt="Siemens NX Logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Siemens_NX_Logo.png/220px-Siemens_NX_Logo.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png 1.5x" data-file-width="256" data-file-height="256" /></a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td><a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">Siemens PLM Software</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Initial release</th><td>October&#160;1973<span class="noprint">&#59;&#32;46&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1973-10</span>)</span></td></tr><tr style="display: none;"><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th><td><div style="margin:0px;">1847 Series - 1867 monthly
+   / June&#160;2019<span class="noprint">&#59;&#32;1&#160;year ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2019-06</span>)</span></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td><a href="/wiki/Mac_OS" class="mw-redirect" title="Mac OS">Mac OS</a> up to NX12, <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> (x64, partially), <a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a> (x64)</td></tr><tr><th scope="row" style="white-space: nowrap;">Available in</th><td>multi-language</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>/<a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">CAM</a>/<a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a>/<a href="/wiki/Product_lifecycle_management" class="mw-redirect" title="Product lifecycle management">PLM</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td>proprietary</td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/products/nx/index.shtml">www<wbr />.plm<wbr />.automation<wbr />.siemens<wbr />.com<wbr />/en<wbr />_us<wbr />/products<wbr />/nx<wbr />/index<wbr />.shtml</a></span></td></tr></tbody></table>
+<p><b>NX</b>, formerly known as "unigraphics", is an advanced high-end <a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>/<a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">CAM</a>/<a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a>, which has been owned since 2007 by <a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">Siemens PLM Software</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In 2000, Unigraphics purchased <b>SDRC I-DEAS</b> and began an effort to integrate aspects of both software packages into a single product which became <b>Unigraphics NX</b> or <b>NX</b>.
+</p><p>It is used, among other tasks, for:
+</p>
+<ul><li><a href="/wiki/Design" title="Design">Design</a> (parametric and direct solid/surface modelling)</li>
+<li><a href="/wiki/Engineering_analysis" title="Engineering analysis">Engineering analysis</a> (static; dynamic; electro-magnetic; thermal, using the <a href="/wiki/Finite_element_method" title="Finite element method">finite element method</a>; and fluid, using the <a href="/wiki/Finite_volume_method" title="Finite volume method">finite volume method</a>).</li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a> finished design by using included machining modules.</li></ul>
+<p>NX is a direct competitor to <a href="/wiki/CATIA" title="CATIA">CATIA</a>, <a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">Creo</a>, <a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a>, and <a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Release_history"><span class="tocnumber">2</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Key_functions"><span class="tocnumber">3</span> <span class="toctext">Key functions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Supported_operating_systems_and_platforms"><span class="tocnumber">4</span> <span class="toctext">Supported operating systems and platforms</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Architecture"><span class="tocnumber">5</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">8</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>1972:</b>
+United Computing, Inc. releases UNIAPT, one of the world's first end-user CAM products.
+</p><p><b>1973</b>: 
+The company purchases the Automated Drafting and Machining (ADAM) software code from <a href="/wiki/Patrick_J._Hanratty" title="Patrick J. Hanratty">MCS</a> in 1973. The code became a foundation for a product called UNI-GRAPHICS, later sold commercially as Unigraphics in 1975.
+</p><p><b>1976</b> <a href="/wiki/McDonnell_Douglas" title="McDonnell Douglas">McDonnell Douglas Corporation</a> buys United Computing.
+</p><p><b>1983:</b> 
+UniSolids V1.0 is released, marking the industry's first true interactive Solid Modeling software offering.
+</p><p><b>1991:</b>
+During a period of financial difficulties <a href="/w/index.php?title=McDonnell_Douglas_Automation_Company&amp;action=edit&amp;redlink=1" class="new" title="McDonnell Douglas Automation Company (page does not exist)">McDonnell Douglas Automation Company</a> (McAuto) sells its commercial services organization, including the Unigraphics organization and product, to <a href="/wiki/Electronic_Data_Systems" title="Electronic Data Systems">EDS</a> which at that time is owned by <a href="/wiki/General_Motors" title="General Motors">GM</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Unigraphics becomes GM's corporate CAD system.
+</p><p><b>1992:</b>
+Over 21,000 seats of Unigraphics are being used worldwide.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p><b>1996:</b>
+Unigraphics V11.0 is released with enhancements in Industrial Design and Modeling including Bridge Surface, Curvature Analysis for Curve and Surfaces, Face Blends, Variable Offset Surface, etc. In the area of Assembly Modeling the new capabilities include Component Filters, Faceted Representations, and Clearance Analysis between multiple Components.  A fully integrated Spreadsheet linked to Feature-Based Modeling is also included..
+</p><p><b>2002</b> 
+First release of the new "Next Generation" version of Unigraphics and <a href="/wiki/I-DEAS" title="I-DEAS">I-DEAS</a>,  called NX, beginning the transition to bring the functionality and capabilities of both Unigraphics and I-DEAS together into a single consolidated product.
+</p><p><b>2007</b>
+Introduction of Synchronous Technology in NX 5.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p><b>2011</b>
+Release of NX8 on October 17-2011
+</p><p><b>2013</b>
+Release of NX9 (x64 only) on October 14-2013
+</p>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=2" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name/Version
+</th>
+<th>Version History Value
+</th>
+<th>Release Date
+</th></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>R1
+</td>
+<td>April 1978<sup id="cite_ref-history1970_7-0" class="reference"><a href="#cite_note-history1970-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>R2
+</td>
+<td>July 1978<sup id="cite_ref-history1970_7-1" class="reference"><a href="#cite_note-history1970-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>R3
+</td>
+<td>October 1978<sup id="cite_ref-history1970_7-2" class="reference"><a href="#cite_note-history1970-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>R4
+</td>
+<td>March 1979<sup id="cite_ref-history1970_7-3" class="reference"><a href="#cite_note-history1970-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>D1
+</td>
+<td>December 1979<sup id="cite_ref-history1970_7-4" class="reference"><a href="#cite_note-history1970-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>D2
+</td>
+<td>September 1980<sup id="cite_ref-history1980_8-0" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>D3.0
+</td>
+<td>April 1982<sup id="cite_ref-history1980_8-1" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>D4.0
+</td>
+<td>September 1982<sup id="cite_ref-history1980_8-2" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>1.0
+</td>
+<td>August 1983<sup id="cite_ref-history1980_8-3" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics I
+</td>
+<td>D5.0
+</td>
+<td>March 1984<sup id="cite_ref-history1980_8-4" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>2.0
+</td>
+<td>March 1985<sup id="cite_ref-history1980_8-5" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics I
+</td>
+<td>D6.0
+</td>
+<td>August 1985<sup id="cite_ref-history1980_8-6" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>3.0
+</td>
+<td>November 1985<sup id="cite_ref-history1980_8-7" class="reference"><a href="#cite_note-history1980-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>4.0
+</td>
+<td>November 1986<sup id="cite_ref-history1986_9-0" class="reference"><a href="#cite_note-history1986-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>5.0
+</td>
+<td>October 1987<sup id="cite_ref-history1986_9-1" class="reference"><a href="#cite_note-history1986-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>6.0
+</td>
+<td>December 1988<sup id="cite_ref-history1986_9-2" class="reference"><a href="#cite_note-history1986-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>7.0
+</td>
+<td>December 1989<sup id="cite_ref-history1986_9-3" class="reference"><a href="#cite_note-history1986-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>8.0
+</td>
+<td>March 1991<sup id="cite_ref-history1990_10-0" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics II
+</td>
+<td>9.0
+</td>
+<td>August 1992<sup id="cite_ref-history1990_10-1" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>10.3
+</td>
+<td>June 1994<sup id="cite_ref-history1990_10-2" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>11.0
+</td>
+<td>January 1996<sup id="cite_ref-history1990_10-3" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>12.0
+</td>
+<td>January 1997<sup id="cite_ref-history1990_10-4" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>13.0
+</td>
+<td>July 1997<sup id="cite_ref-history1990_10-5" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>14
+</td>
+<td>6/22/1998<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>15.0
+</td>
+<td>November 1998<sup id="cite_ref-history1990_10-6" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>16.0
+</td>
+<td>September 1999<sup id="cite_ref-history1990_10-7" class="reference"><a href="#cite_note-history1990-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>17.0
+</td>
+<td>October 2000<sup id="cite_ref-history2000_12-0" class="reference"><a href="#cite_note-history2000-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>18.0
+</td>
+<td>July 2001<sup id="cite_ref-history2000_12-1" class="reference"><a href="#cite_note-history2000-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Unigraphics
+</td>
+<td>NX
+</td>
+<td>July 2002<sup id="cite_ref-history2000_12-2" class="reference"><a href="#cite_note-history2000-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>5
+</td>
+<td>4/16/2007<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>6
+</td>
+<td>5/20/2008<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>7
+</td>
+<td>5/20/2010<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>7.5
+</td>
+<td>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>8
+</td>
+<td>10/17/2011<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>8.5
+</td>
+<td>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>9
+</td>
+<td>10/14/2013<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>10
+</td>
+<td>12/14/2014
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>11
+</td>
+<td>09/08/2016<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>12
+</td>
+<td>10/27/2017
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>1847
+</td>
+<td>1/18/2019<sup id="cite_ref-1847changes_19-0" class="reference"><a href="#cite_note-1847changes-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td>NX
+</td>
+<td>1872
+</td>
+<td>6/26/2019
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Key_functions">Key functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=3" title="Edit section: Key functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Computer-aided_design" title="Computer-aided design">Computer-aided design</a></b> (CAD) (<a href="/wiki/Design" title="Design">Design</a>)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+<ul><li>Parametric <a href="/wiki/Solid_modeling" title="Solid modeling">solid modeling</a> (feature-based and direct modeling<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>)</li>
+<li><a href="/wiki/Freeform_surface_modelling" title="Freeform surface modelling">Freeform surface modelling</a>, <a href="/wiki/Class_A_surfaces" class="mw-redirect" title="Class A surfaces">class A surfaces</a>.</li>
+<li><a href="/wiki/Reverse_engineering" title="Reverse engineering">Reverse engineering</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li>
+<li><a href="/wiki/Design" title="Design">Styling</a> and <a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">computer-aided industrial design</a>ɟ</li>
+<li><a href="/wiki/Product_and_manufacturing_information" title="Product and manufacturing information">Product and manufacturing information</a> (PMI)</li>
+<li>Reporting and analytics,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> <a href="/wiki/Verification_and_validation" title="Verification and validation">verification and validation</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li>
+<li>Knowledge reuse, including <a href="/wiki/Knowledge-based_engineering" title="Knowledge-based engineering">knowledge-based engineering</a></li>
+<li><a href="/wiki/Sheet_metal" title="Sheet metal">Sheet metal</a> design</li>
+<li><a href="/wiki/Assembly_modelling" title="Assembly modelling">Assembly modelling</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> and <a href="/wiki/Digital_mockup" title="Digital mockup">digital mockup</a></li>
+<li><a href="/wiki/Routing" title="Routing">Routing</a> for <a href="/wiki/Electrical_wiring" title="Electrical wiring">electrical wiring</a> and mechanical <a href="/wiki/Piping" title="Piping">piping</a></li></ul></li>
+<li><b><a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">Computer-aided engineering</a></b> (CAE) (<a href="/wiki/Computer_simulation" title="Computer simulation">Simulation</a>)
+<ul><li><a href="/wiki/Stress_analysis" class="mw-redirect" title="Stress analysis">Stress analysis</a> / <a href="/wiki/Finite_element_method" title="Finite element method">finite element method</a> (FEM)</li>
+<li><a href="/wiki/Kinematics" title="Kinematics">Kinematics</a></li>
+<li><a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">Computational fluid dynamics</a> (CFD) and <a href="/wiki/Thermal_analysis" title="Thermal analysis">thermal analysis</a></li></ul></li>
+<li><b><a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">Computer-aided manufacturing</a></b> (CAM) (<a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>)<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+<ul><li><a href="/wiki/Numerical_control" title="Numerical control">Numerical control</a> (NC) programming</li></ul></li></ul>
+<h2><span class="mw-headline" id="Supported_operating_systems_and_platforms">Supported operating systems and platforms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=4" title="Edit section: Supported operating systems and platforms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>NX</b> runs on <a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> and <a href="/wiki/Mac_OS" class="mw-redirect" title="Mac OS">Mac OS</a>.
+</p><p>Starting with version 1847, support for Windows versions prior to <a href="/wiki/Windows_10" title="Windows 10">Windows 10</a> as well as for macOS was completely removed, and the <a href="/wiki/Graphical_user_interface" title="Graphical user interface">GUI</a> was removed from the Linux version. <sup id="cite_ref-1847changes_19-1" class="reference"><a href="#cite_note-1847changes-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=5" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>NX uses <a href="/wiki/Parasolid" title="Parasolid">Parasolid</a> for its <a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Geometric modeling kernel</a> and <a href="/w/index.php?title=D-Cubed&amp;action=edit&amp;redlink=1" class="new" title="D-Cubed (page does not exist)">D-Cubed</a> as <a href="/w/index.php?title=Associative_engine&amp;action=edit&amp;redlink=1" class="new" title="Associative engine (page does not exist)">Associative engine</a> for sketcher and assembly constraints as well as using <a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">JT (visualization format)</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> for lightweight data and Multi-CAD.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/PTC_Creo" title="PTC Creo">PTC Creo</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Inventor</a></li>
+<li><a href="/wiki/I-DEAS" title="I-DEAS">I-DEAS</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=34092&amp;ComponentTemplate=822">"Siemens Closes Acquisition of UGS; Introduces Business as UGS PLM Software"</a>. <a href="/wiki/Siemens" title="Siemens">Siemens</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siemens+Closes+Acquisition+of+UGS%3B+Introduces+Business+as+UGS+PLM+Software&amp;rft.pub=Siemens&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D34092%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://siemens.com/nx">"NX main page"</a>. <a href="/wiki/Siemens" title="Siemens">Siemens</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NX+main+page&amp;rft.pub=Siemens&amp;rft_id=http%3A%2F%2Fsiemens.com%2Fnx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFZipper1991" class="citation web">Zipper, Stuart (1991-11-11). <a rel="nofollow" class="external text" href="http://findarticles.com/p/articles/mi_m0EKF/is_n1886_v37/ai_11499788/">"See GM, IBM in CAD/CAM fight; after Unigraphics deal"</a>. Electronic News.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=See+GM%2C+IBM+in+CAD%2FCAM+fight%3B+after+Unigraphics+deal&amp;rft.pub=Electronic+News&amp;rft.date=1991-11-11&amp;rft.aulast=Zipper&amp;rft.aufirst=Stuart&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Farticles%2Fmi_m0EKF%2Fis_n1886_v37%2Fai_11499788%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFBozdoc" class="citation web">Bozdoc, Martian. <a rel="nofollow" class="external text" href="http://mbinfo.mbdesign.net/CAD1992-93.htm">"1992-1993"</a>. <i>The History of CAD, CAD chronology</i>. iMB.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+History+of+CAD%2C+CAD+chronology&amp;rft.atitle=1992-1993&amp;rft.aulast=Bozdoc&amp;rft.aufirst=Martian&amp;rft_id=http%3A%2F%2Fmbinfo.mbdesign.net%2FCAD1992-93.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFYares2008" class="citation web">Yares, Evan (2008-05-21). <a rel="nofollow" class="external text" href="https://archive.today/20130122105423/http://www.evanyares.com/?p=129">"Synchronous Technology and Design Freedom"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.evanyares.com/?p=129">the original</a> on 2013-01-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synchronous+Technology+and+Design+Freedom&amp;rft.date=2008-05-21&amp;rft.aulast=Yares&amp;rft.aufirst=Evan&amp;rft_id=http%3A%2F%2Fwww.evanyares.com%2F%3Fp%3D129&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/plm/definition/synchronous_technology.shtml">"Synchronous Technology"</a>. <a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">Siemens PLM Software</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synchronous+Technology&amp;rft.pub=Siemens+PLM+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fplm%2Fdefinition%2Fsynchronous_technology.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-history1970-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-history1970_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history1970_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history1970_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history1970_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-history1970_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plmworld.org/index.php?mo=cm&amp;op=ld&amp;fid=220">"Unigraphics in the 70's"</a>. PLM World<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+in+the+70%27s&amp;rft.pub=PLM+World&amp;rft_id=http%3A%2F%2Fwww.plmworld.org%2Findex.php%3Fmo%3Dcm%26op%3Dld%26fid%3D220&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-history1980-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-history1980_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history1980_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history1980_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history1980_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-history1980_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-history1980_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-history1980_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-history1980_8-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plmworld.org/index.php?mo=cm&amp;op=ld&amp;fid=221">"Unigraphics in the 80's 1980-1985"</a>. PLM World<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+in+the+80%27s+1980-1985&amp;rft.pub=PLM+World&amp;rft_id=http%3A%2F%2Fwww.plmworld.org%2Findex.php%3Fmo%3Dcm%26op%3Dld%26fid%3D221&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-history1986-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-history1986_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history1986_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history1986_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history1986_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plmworld.org/index.php?mo=cm&amp;op=ld&amp;fid=234">"Unigraphics in the 80's 1986-1989"</a>. PLM World<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+in+the+80%27s+1986-1989&amp;rft.pub=PLM+World&amp;rft_id=http%3A%2F%2Fwww.plmworld.org%2Findex.php%3Fmo%3Dcm%26op%3Dld%26fid%3D234&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-history1990-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-history1990_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history1990_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history1990_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history1990_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-history1990_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-history1990_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-history1990_10-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-history1990_10-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plmworld.org/index.php?mo=cm&amp;op=ld&amp;fid=222">"Unigraphics in the 90's"</a>. PLM World<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+in+the+90%27s&amp;rft.pub=PLM+World&amp;rft_id=http%3A%2F%2Fwww.plmworld.org%2Findex.php%3Fmo%3Dcm%26op%3Dld%26fid%3D222&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFUnigraphics_Solutions1998" class="citation web">Unigraphics Solutions (June 22, 1998). <a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/unigraphics-solutions-announces-version-14-of-unigraphics-cadcamcae-software-78059387.html">"Unigraphics Solutions Announces Version 14 of Unigraphics CAD/CAM/CAE Software"</a>. PR Newswire<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+Solutions+Announces+Version+14+of+Unigraphics+CAD%2FCAM%2FCAE+Software&amp;rft.pub=PR+Newswire&amp;rft.date=1998-06-22&amp;rft.au=Unigraphics+Solutions&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Funigraphics-solutions-announces-version-14-of-unigraphics-cadcamcae-software-78059387.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-history2000-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-history2000_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history2000_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history2000_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plmworld.org/index.php?mo=cm&amp;op=ld&amp;fid=223">"Unigraphics Today"</a>. PLM World<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unigraphics+Today&amp;rft.pub=PLM+World&amp;rft_id=http%3A%2F%2Fwww.plmworld.org%2Findex.php%3Fmo%3Dcm%26op%3Dld%26fid%3D223&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiemens_Product_Lifecycle_Management_Software" class="citation web">Siemens Product Lifecycle Management Software. <a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=34105&amp;ComponentTemplate=822">"UGS Launches NX 5 CAD/CAM/CAE Software; New Technologies Provide Users with "Greater Powers" to Develop Innovative Products Faster and More Cost-Efficiently: Siemens PLM Software"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UGS+Launches+NX+5+CAD%2FCAM%2FCAE+Software%3B+New+Technologies+Provide+Users+with+%E2%80%9CGreater+Powers%E2%80%9D+to+Develop+Innovative+Products+Faster+and+More+Cost-Efficiently%3A+Siemens+PLM+Software&amp;rft.au=Siemens+Product+Lifecycle+Management+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D34105%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiemens_Product_Lifecycle_Management_Software" class="citation web">Siemens Product Lifecycle Management Software. <a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=60352&amp;ComponentTemplate=822">"Siemens PLM Software Launches NX 6 Software: Siemens PLM Software"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siemens+PLM+Software+Launches+NX+6+Software%3A+Siemens+PLM+Software&amp;rft.au=Siemens+Product+Lifecycle+Management+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D60352%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiemens_Product_Lifecycle_Management_Software" class="citation web">Siemens Product Lifecycle Management Software. <a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=96769&amp;ComponentTemplate=822">"Siemens PLM Software Redefines CAD/CAM/CAE Productivity and Product Development Decision Support with NX 7 Software: Siemens PLM Software"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siemens+PLM+Software+Redefines+CAD%2FCAM%2FCAE+Productivity+and+Product+Development+Decision+Support+with+NX+7+Software%3A+Siemens+PLM+Software&amp;rft.au=Siemens+Product+Lifecycle+Management+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D96769%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiemens_Product_Lifecycle_Management_Software" class="citation web">Siemens Product Lifecycle Management Software. <a rel="nofollow" class="external text" href="https://www.plm.automation.siemens.com/pt_br/about_us/newsroom/press/press_release.cfm?Component=129307&amp;ComponentTemplate=822">"Siemens PLM Software's NX 8 Includes Comprehensive Enhancements Throughout with Focus on CAE: Siemens PLM Software"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siemens+PLM+Software%27s+NX+8+Includes+Comprehensive+Enhancements+Throughout+with+Focus+on+CAE%3A+Siemens+PLM+Software&amp;rft.au=Siemens+Product+Lifecycle+Management+Software&amp;rft_id=https%3A%2F%2Fwww.plm.automation.siemens.com%2Fpt_br%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D129307%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFSiemens_Product_Lifecycle_Management_Software" class="citation web">Siemens Product Lifecycle Management Software. <a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=212122&amp;ComponentTemplate=822">"Siemens NX 9 Delivers up to 5X Product Development Productivity across Industries: Siemens PLM Software"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siemens+NX+9+Delivers+up+to+5X+Product+Development+Productivity+across+Industries%3A+Siemens+PLM+Software&amp;rft.au=Siemens+Product+Lifecycle+Management+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D212122%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite id="CITEREFSoftware" class="citation web">Software, Siemens Product Lifecycle Management. <a rel="nofollow" class="external text" href="https://www.plm.automation.siemens.com/en_us/about_us/newsroom/press/press_release.cfm?Component=250263&amp;ComponentTemplate=822">"Siemens' NX Delivers Next Breakthrough in Product Design with Convergent Modeling: Siemens PLM Software"</a>. <i>www.plm.automation.siemens.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.plm.automation.siemens.com&amp;rft.atitle=Siemens%E2%80%99+NX+Delivers+Next+Breakthrough+in+Product+Design+with+Convergent+Modeling%3A+Siemens+PLM+Software&amp;rft.aulast=Software&amp;rft.aufirst=Siemens+Product+Lifecycle+Management&amp;rft_id=https%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fabout_us%2Fnewsroom%2Fpress%2Fpress_release.cfm%3FComponent%3D250263%26ComponentTemplate%3D822&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-1847changes-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-1847changes_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1847changes_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://docs.plm.automation.siemens.com/docs/nx/1847/en_US/release_notes.pdf">"NX 1847 Release Notes"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NX+1847+Release+Notes&amp;rft_id=https%3A%2F%2Fdocs.plm.automation.siemens.com%2Fdocs%2Fnx%2F1847%2Fen_US%2Frelease_notes.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.plm.automation.siemens.com/en_us/products/nx/design/mechanical/index.shtml">"NX modeling page"</a>. <a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">Siemens PLM Software</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NX+modeling+page&amp;rft.pub=Siemens+PLM+Software&amp;rft_id=http%3A%2F%2Fwww.plm.automation.siemens.com%2Fen_us%2Fproducts%2Fnx%2Fdesign%2Fmechanical%2Findex.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite id="CITEREFEngland2009" class="citation web">England, Derek (2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110707063107/http://www.3dcic.com/2009-proceedings-audio/rapid-design-through-synchronous-modeling">"Rapid Design Through Synchronous Modeling"</a>. <i>Collaboration &amp; Interoperability</i>. Siemens PLM Software. Archived from <a rel="nofollow" class="external text" href="http://www.3dcic.com/2009-proceedings-audio/rapid-design-through-synchronous-modeling">the original</a> on 2011-07-07.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Collaboration+%26+Interoperability&amp;rft.atitle=Rapid+Design+Through+Synchronous+Modeling&amp;rft.date=2009&amp;rft.aulast=England&amp;rft.aufirst=Derek&amp;rft_id=http%3A%2F%2Fwww.3dcic.com%2F2009-proceedings-audio%2Frapid-design-through-synchronous-modeling&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite id="CITEREFParrella" class="citation web">Parrella, Tod. <a rel="nofollow" class="external text" href="https://plmworld.org/home/presentations/abstracts/2007_presentations/nx/NXDI2-Parrella.pdf">"Reverse Engineering"</a> <span class="cs1-format">(PDF)</span>. <i>PLM World 2007</i>. UGS Corp.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PLM+World+2007&amp;rft.atitle=Reverse+Engineering&amp;rft.aulast=Parrella&amp;rft.aufirst=Tod&amp;rft_id=https%3A%2F%2Fplmworld.org%2Fhome%2Fpresentations%2Fabstracts%2F2007_presentations%2Fnx%2FNXDI2-Parrella.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since May 2018">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFWong" class="citation web">Wong, Kenneth. <a rel="nofollow" class="external text" href="http://www.deskeng.com/virtual_desktop/?p=2363">"HD3D"</a>. Desktop Engineering.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HD3D&amp;rft.pub=Desktop+Engineering&amp;rft.aulast=Wong&amp;rft.aufirst=Kenneth&amp;rft_id=http%3A%2F%2Fwww.deskeng.com%2Fvirtual_desktop%2F%3Fp%3D2363&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+<cite id="CITEREFAnderson2009" class="citation web">Anderson, Taylor (May 3, 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110709014906/http://www.deskeng.com/articles/aaapyy.htm">"Automating the Design Validation Process with NX Check-Mate"</a>. Desktop Engineering. Archived from <a rel="nofollow" class="external text" href="http://www.deskeng.com/articles/aaapyy.htm">the original</a> on July 9, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Automating+the+Design+Validation+Process+with+NX+Check-Mate&amp;rft.pub=Desktop+Engineering&amp;rft.date=2009-05-03&amp;rft.aulast=Anderson&amp;rft.aufirst=Taylor&amp;rft_id=http%3A%2F%2Fwww.deskeng.com%2Farticles%2Faaapyy.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite id="CITEREFCarrington" class="citation web">Carrington, Jim. <a rel="nofollow" class="external text" href="http://www-cad.fnal.gov/PLMWorld2008/Design%20-%20NX/nx%25206%2520assembly%2520modeling%2520update%2520cd.pdf">"NX 6 Assembly Modeling Update"</a> <span class="cs1-format">(PDF)</span>. <i>PLMWorld 2008</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PLMWorld+2008&amp;rft.atitle=NX+6+Assembly+Modeling+Update&amp;rft.aulast=Carrington&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww-cad.fnal.gov%2FPLMWorld2008%2FDesign%2520-%2520NX%2Fnx%2525206%252520assembly%252520modeling%252520update%252520cd.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite id="CITEREFClarke" class="citation web">Clarke, Charles. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110716194840/http://www.tctmagazine.com/library/224/CAMSoftwareReview.pdf">"Developments in the CAM software market"</a> <span class="cs1-format">(PDF)</span>. tct. Archived from <a rel="nofollow" class="external text" href="http://www.tctmagazine.com/library/224/CAMSoftwareReview.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-16.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Developments+in+the+CAM+software+market&amp;rft.pub=tct&amp;rft.aulast=Clarke&amp;rft.aufirst=Charles&amp;rft_id=http%3A%2F%2Fwww.tctmagazine.com%2Flibrary%2F224%2FCAMSoftwareReview.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite id="CITEREFCarrington" class="citation web">Carrington, Jim. <a rel="nofollow" class="external text" href="http://www-cad.fnal.gov/PLMWorld2008/Design%20-%20NX/nx%2520multicad%2520jt%2520cd.pdf">"Working with Multi-CAD Data in NX using JT"</a> <span class="cs1-format">(PDF)</span>. <i>PLMWorld 2008</i>. Siemens PLM Software.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PLMWorld+2008&amp;rft.atitle=Working+with+Multi-CAD+Data+in+NX+using+JT&amp;rft.aulast=Carrington&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww-cad.fnal.gov%2FPLMWorld2008%2FDesign%2520-%2520NX%2Fnx%252520multicad%252520jt%252520cd.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASiemens+NX" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:23px auto;"><a href="/wiki/File:Cad_crank.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cad_crank.jpg/120px-Cad_crank.jpg" decoding="async" width="120" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cad_crank.jpg/180px-Cad_crank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cad_crank.jpg/240px-Cad_crank.jpg 2x" data-file-width="460" data-file-height="400" /></a></div></div>
+			<div class="gallerytext">
+<p>Cad crank
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:34px auto;"><a href="/wiki/File:Ugs-nx-5-engine-airflow-simulation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Ugs-nx-5-engine-airflow-simulation.jpg/120px-Ugs-nx-5-engine-airflow-simulation.jpg" decoding="async" width="120" height="82" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Ugs-nx-5-engine-airflow-simulation.jpg/180px-Ugs-nx-5-engine-airflow-simulation.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Ugs-nx-5-engine-airflow-simulation.jpg/240px-Ugs-nx-5-engine-airflow-simulation.jpg 2x" data-file-width="1179" data-file-height="810" /></a></div></div>
+			<div class="gallerytext">
+<p>engine airflow simulation
+</p>
+			</div>
+		</div></li>
+</ul>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:NX_(Unigraphics)_screenshots" class="extiw" title="commons:Category:NX (Unigraphics) screenshots"><span style="">NX (Unigraphics) screenshots</span></a> at Wikimedia Commons</li>
+<li><a href="/wiki/Category:Screenshots_of_NX_(Unigraphics)" title="Category:Screenshots of NX (Unigraphics)">Category:Screenshots of NX (Unigraphics)</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Siemens_NX&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.siemens.com/nx">Official website</a></span></span></li></ul>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Siemens_PLM_Software" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Siemens_PLM_Software" title="Template:Siemens PLM Software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Siemens_PLM_Software" title="Template talk:Siemens PLM Software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Siemens_PLM_Software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Siemens_PLM_Software" style="font-size:114%;margin:0 4em"><a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">Siemens PLM Software</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_component" class="mw-redirect" title="Software component">Components</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Synchronous_Technology" class="mw-redirect" title="Synchronous Technology">Synchronous Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/JT_(visualization_format)" title="JT (visualization format)">DirectModel</a></li>
+<li><a href="/w/index.php?title=D-Cubed&amp;action=edit&amp;redlink=1" class="new" title="D-Cubed (page does not exist)">D-Cubed</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Application_software" title="Application software">Applications</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Teamcenter" title="Teamcenter">Teamcenter</a></li>
+<li><a class="mw-selflink selflink">NX (Unigraphics)</a></li>
+<li><a href="/wiki/NX_Nastran" class="mw-redirect" title="NX Nastran">NX Nastran</a></li>
+<li><a href="/wiki/I-DEAS" title="I-DEAS">NX I-DEAS</a></li>
+<li><a href="/wiki/Tecnomatix" title="Tecnomatix">Tecnomatix</a></li>
+<li><a href="/wiki/Plant_Simulation" title="Plant Simulation">Plant Simulation</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/Femap" title="Femap">Femap</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Company" title="Company">Companies</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Applicon" title="Applicon">Applicon</a></li>
+<li><a href="/wiki/Engineering_Animation" title="Engineering Animation">EAI</a></li>
+<li><a href="/wiki/SDRC" title="SDRC">SDRC</a></li>
+<li><a href="/wiki/Tecnomatix" title="Tecnomatix">Tecnomatix</a></li>
+<li><a href="/wiki/Siemens_PLM_Software" title="Siemens PLM Software">UGS</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="CAD_software" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:CAD_software" title="Template:CAD software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:CAD_software" title="Template talk:CAD software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:CAD_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="CAD_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a> software</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free and open-source</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Mechanical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BRL-CAD" title="BRL-CAD">BRL-CAD</a></li>
+<li><a href="/wiki/FreeCAD" title="FreeCAD">FreeCAD</a></li>
+<li><a href="/wiki/HeeksCAD" title="HeeksCAD">HeeksCAD</a></li>
+<li><a href="/wiki/LibreCAD" title="LibreCAD">LibreCAD</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenSCAD" title="OpenSCAD">OpenSCAD</a></li>
+<li><a href="/wiki/QCAD" title="QCAD">QCAD</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/SolveSpace" title="SolveSpace">SolveSpace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electric_(software)" title="Electric (software)">Electric</a></li>
+<li><a href="/wiki/Fritzing" title="Fritzing">Fritzing</a></li>
+<li><a href="/wiki/GEDA" title="GEDA">gEDA</a></li>
+<li><a href="/wiki/KiCad" title="KiCad">KiCad</a></li>
+<li><a href="/wiki/KTechLab" title="KTechLab">kTechLab</a></li>
+<li><a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></li>
+<li><a href="/wiki/Ngspice" title="Ngspice">ngspice</a></li>
+<li><a href="/wiki/Oregano_(software)" title="Oregano (software)">Oregano</a></li>
+<li><a href="/wiki/Quite_Universal_Circuit_Simulator" title="Quite Universal Circuit Simulator">QUCS</a></li>
+<li><a href="/wiki/XCircuit" title="XCircuit">XCircuit</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Mechanical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AutoCAD" title="AutoCAD">AutoCAD</a></li>
+<li><a href="/wiki/Autodesk_Alias" title="Autodesk Alias">Autodesk Alias</a></li>
+<li><a href="/wiki/Autodesk_Inventor" title="Autodesk Inventor">Autodesk Inventor</a></li>
+<li><a href="/wiki/Autodesk_Revit" title="Autodesk Revit">Autodesk Revit</a></li>
+<li><a href="/wiki/ArchiCAD" title="ArchiCAD">ArchiCAD</a></li>
+<li><a href="/wiki/BricsCAD" title="BricsCAD">BricsCAD</a></li>
+<li><a href="/wiki/CADKEY" title="CADKEY">CADKEY</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/Cimatron" title="Cimatron">Cimatron</a></li>
+<li><a href="/wiki/Cobalt_(CAD_program)" title="Cobalt (CAD program)">Cobalt</a></li>
+<li><a href="/wiki/DesignSpark_Mechanical" title="DesignSpark Mechanical">DesignSpark Mechanical</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Direct_Drafting" title="PTC Creo Elements/Direct Drafting">Creo Elements/Direct Drafting</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">Creo Elements/Pro</a></li>
+<li><a href="/wiki/FastCAD" title="FastCAD">FastCAD/EasyCAD</a></li>
+<li><a href="/wiki/FINE_MEP" title="FINE MEP">FINE</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/GstarCAD" title="GstarCAD">GstarCAD</a></li>
+<li><a href="/wiki/IRONCAD" title="IRONCAD">IRONCAD</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">KeyCreator</a></li>
+<li><a href="/wiki/MEDUSA" title="MEDUSA">MEDUSA</a></li>
+<li><a href="/wiki/MicroStation" title="MicroStation">MicroStation</a></li>
+<li><a class="mw-selflink selflink">NX</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li>
+<li><a href="/wiki/PDMS_(software)" title="PDMS (software)">PDMS</a></li>
+<li><a href="/wiki/Pro/DESKTOP" title="Pro/DESKTOP">Pro/DESKTOP</a></li>
+<li><a href="/w/index.php?title=ProgeCAD&amp;action=edit&amp;redlink=1" class="new" title="ProgeCAD (page does not exist)">progeCAD</a></li>
+<li><a href="/wiki/Rhinoceros_3D" title="Rhinoceros 3D">Rhinoceros 3D</a>
+<ul><li><a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper 3D</a></li></ul></li>
+<li><a href="/wiki/RUCAPS" title="RUCAPS">RUCAPS</a></li>
+<li><a href="/wiki/Solid_Edge" title="Solid Edge">Solid Edge</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/SpaceClaim" title="SpaceClaim">SpaceClaim</a></li>
+<li><a href="/wiki/T-FLEX_CAD" title="T-FLEX CAD">T-FLEX CAD</a></li>
+<li><a href="/wiki/TurboCAD" title="TurboCAD">TurboCAD</a></li>
+<li><a href="/wiki/VariCAD" title="VariCAD">VariCAD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electrical</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allegro_(CAD_software)" class="mw-redirect" title="Allegro (CAD software)">Allegro</a></li>
+<li><a href="/wiki/AutoCAD_Electrical" class="mw-redirect" title="AutoCAD Electrical">AutoCAD Electrical</a></li>
+<li><a href="/wiki/Autotrax" title="Autotrax">Autotrax</a></li>
+<li><a href="/wiki/Altium_Designer" title="Altium Designer">Altium Designer</a></li>
+<li><a href="/wiki/Mentor_Graphics" title="Mentor Graphics">BoardStation</a></li>
+<li><a href="/wiki/CADSTAR" title="CADSTAR">CADSTAR</a></li>
+<li><a href="/wiki/CR-2000" class="mw-redirect" title="CR-2000">CR-2000</a></li>
+<li><a href="/wiki/CR-3000" class="mw-redirect" title="CR-3000">CR-3000</a></li>
+<li><a href="/wiki/CR-5000" title="CR-5000">CR-5000</a></li>
+<li><a href="/wiki/CR-8000" title="CR-8000">CR-8000</a></li>
+<li><a href="/wiki/Delta_Design" class="mw-redirect" title="Delta Design">Delta Design</a></li>
+<li><a href="/wiki/DesignSpark_PCB" title="DesignSpark PCB">DesignSpark</a></li>
+<li><a href="/wiki/DipTrace" title="DipTrace">DipTrace</a></li>
+<li><a href="/wiki/EAGLE_(program)" title="EAGLE (program)">EAGLE</a></li>
+<li><a href="/wiki/Easytrax" class="mw-redirect" title="Easytrax">Easytrax</a></li>
+<li><a href="/wiki/FreeStyle_(CAD_software)" class="mw-redirect" title="FreeStyle (CAD software)">FreeStyle</a></li>
+<li><a href="/wiki/IntegraStation" class="mw-redirect" title="IntegraStation">IntegraStation</a></li>
+<li><a href="/wiki/LTspice" title="LTspice">LTspice</a></li>
+<li><a href="/wiki/Micro-Cap" title="Micro-Cap">Micro-Cap</a></li>
+<li><a href="/wiki/NI_Multisim" title="NI Multisim">Multisim</a></li>
+<li><a href="/wiki/OrCAD" title="OrCAD">OrCAD</a></li>
+<li><a href="/wiki/Protel_(CAD_software)" class="mw-redirect" title="Protel (CAD software)">Protel</a></li>
+<li><a href="/wiki/Proteus_Design_Suite" title="Proteus Design Suite">Proteus</a></li>
+<li><a href="/wiki/Pulsonix" title="Pulsonix">Pulsonix</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks Electrical</a></li>
+<li><a href="/wiki/TangoPCB" class="mw-redirect" title="TangoPCB">Tango</a></li>
+<li><a href="/wiki/TARGET_(CAD_software)" title="TARGET (CAD software)">TARGET</a></li>
+<li><a href="/wiki/TopoR" title="TopoR">TopoR</a></li>
+<li><a href="/wiki/NI_Ultiboard" title="NI Ultiboard">Ultiboard</a></li>
+<li><a href="/wiki/Upverter" title="Upverter">Upverter</a></li>
+<li><a href="/wiki/Xpedition_(CAD_software)" class="mw-redirect" title="Xpedition (CAD software)">Xpedition</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">File formats</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/3D_Manufacturing_Format" title="3D Manufacturing Format">3MF</a></li>
+<li><a href="/wiki/ACIS#File_format" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/Additive_manufacturing_file_format" title="Additive manufacturing file format">AMF</a></li>
+<li><a href="/wiki/C3D_Toolkit" title="C3D Toolkit">C3D</a></li>
+<li><a href="/wiki/KeyCreator" title="KeyCreator">CKD</a></li>
+<li><a href="/wiki/Specctra" title="Specctra">DSN</a></li>
+<li><a href="/wiki/Design_Web_Format" title="Design Web Format">DWF</a></li>
+<li><a href="/wiki/Open_Packaging_Conventions" title="Open Packaging Conventions">DWFX</a></li>
+<li><a href="/wiki/.dwg" title=".dwg">DWG</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF">DXF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Wavefront_.obj_file" title="Wavefront .obj file">OBJ</a></li>
+<li><a href="/wiki/Open_Design_Alliance" title="Open Design Alliance">OpenDWG</a></li>
+<li><a href="/wiki/PLY_(file_format)" title="PLY (file format)">PLY</a></li>
+<li><a href="/wiki/PSpice_circuit_file" class="mw-redirect" title="PSpice circuit file">PSpice</a></li>
+<li><a href="/wiki/Specctra" title="Specctra">SES</a></li>
+<li><a href="/wiki/ISO_10303" title="ISO 10303">STEP</a></li>
+<li><a href="/wiki/STL_(file_format)" title="STL (file format)">STL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geometric_modeling_kernel" title="Geometric modeling kernel">Modeling kernels</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ACIS" title="ACIS">ACIS</a></li>
+<li><a href="/wiki/C3D_Toolkit" title="C3D Toolkit">C3D</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/Parasolid" title="Parasolid">Parasolid</a></li>
+<li><a href="/wiki/Russian_Geometric_Kernel" title="Russian Geometric Kernel"> RGK</a></li>
+<li><a href="/wiki/Romulus_(modelling_kernel)" title="Romulus (modelling kernel)">Romulus</a></li>
+<li><a href="/wiki/KernelCAD" class="mw-redirect" title="KernelCAD">KernelCAD</a></li>
+<li><a href="/wiki/ShapeManager" title="ShapeManager">ShapeManager</a></li>
+<li><a href="/wiki/Teigha" class="mw-redirect" title="Teigha">Teigha</a></li>
+<li><a href="/wiki/IntelliCAD" title="IntelliCAD">IntelliCAD</a></li>
+<li><a href="/wiki/Solid_Modeling_Solutions" title="Solid Modeling Solutions">SMLib</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Old</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Sketchpad" title="Sketchpad">Sketchpad</a> (1963)&#160;<b>&#183;</b>&#32;<a href="/wiki/UNISURF" title="UNISURF">UNISURF</a> (1968)</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/History_of_CAD_software" title="History of CAD software">History of CAD software</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="CAM_software" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:CAM_software" title="Template:CAM software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:CAM_software" title="Template talk:CAM software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:CAM_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="CAM_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_manufacturing" title="Computer-aided manufacturing">CAM</a> software</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Open source</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/LinuxCNC" title="LinuxCNC">LinuxCNC</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proprietary</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/PTC_Creo_Elements/Pro" title="PTC Creo Elements/Pro">Creo Elements/Pro</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/Mastercam" title="Mastercam">MasterCAM</a></li>
+<li><a href="/wiki/MazaCAM" title="MazaCAM">MazaCAM</a></li>
+<li><a href="/wiki/NC-CAM" title="NC-CAM">NC-CAM</a></li>
+<li><a href="/wiki/PowerMILL" title="PowerMILL">PowerMILL</a></li>
+<li><a class="mw-selflink selflink">Siemens NX</a></li>
+<li><a href="/wiki/SmartCAM" title="SmartCAM">SmartCAM</a></li>
+<li><a href="/wiki/SprutCAM" title="SprutCAM">SprutCAM</a></li>
+<li><a href="/wiki/VoluMill" title="VoluMill">VoluMill</a></li>
+<li><a href="/wiki/WorkNC" title="WorkNC">WorkNC</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="CAE_software" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:CAE_software" title="Template:CAE software"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:CAE_software" title="Template talk:CAE software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:CAE_software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="CAE_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computer-aided_engineering" title="Computer-aided engineering">CAE</a> software</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Open-source</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advanced_Simulation_Library" title="Advanced Simulation Library">Advanced Simulation Library</a></li>
+<li><a href="/wiki/Calculix" title="Calculix">Calculix</a></li>
+<li><a href="/wiki/Code_Saturne" title="Code Saturne">Code Saturne</a></li>
+<li><a href="/wiki/Deal.II" title="Deal.II">deal.II</a></li>
+<li><a href="/wiki/Elmer_FEM_solver" title="Elmer FEM solver">Elmer</a></li>
+<li><a href="/wiki/FEniCS_Project" title="FEniCS Project">FEniCS</a></li>
+<li><a href="/wiki/FreeFem%2B%2B" title="FreeFem++">FreeFem++</a></li>
+<li><a href="/wiki/Gerris_(software)" title="Gerris (software)">Gerris</a></li>
+<li><a href="/wiki/GetFEM%2B%2B" title="GetFEM++">GetFEM++</a></li>
+<li><a href="/wiki/MOOSE_(software)" title="MOOSE (software)">MOOSE</a></li>
+<li><a href="/wiki/Open_Cascade_Technology" title="Open Cascade Technology">Open Cascade Technology</a></li>
+<li><a href="/wiki/OpenFOAM" title="OpenFOAM">OpenFOAM</a></li>
+<li><a href="/wiki/QBlade" title="QBlade">QBlade</a></li>
+<li><a href="/wiki/Salome_(software)" title="Salome (software)">Salome</a></li>
+<li><a href="/wiki/Stanford_University_Unstructured" class="mw-redirect" title="Stanford University Unstructured">SU2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proprietary</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abaqus" title="Abaqus">Abaqus</a></li>
+<li><a href="/wiki/Actran" title="Actran">Actran</a></li>
+<li><a href="/wiki/ADINA" title="ADINA">ADINA</a></li>
+<li><a href="/wiki/Altair_Engineering" title="Altair Engineering">Altair</a></li>
+<li><a href="/wiki/Ansys" title="Ansys">Ansys</a></li>
+<li><a href="/wiki/Autodesk_Simulation" title="Autodesk Simulation">Autodesk Simulation</a></li>
+<li><a href="/wiki/AVL_(engineering_company)" title="AVL (engineering company)">AVL</a></li>
+<li><a href="/wiki/CATIA" title="CATIA">CATIA</a></li>
+<li><a href="/wiki/COMSOL_Multiphysics" title="COMSOL Multiphysics">COMSOL Multiphysics</a></li>
+<li><a href="/wiki/Computer_Simulation_Technology" class="mw-redirect" title="Computer Simulation Technology">CST Studio Suite</a></li>
+<li><a href="/wiki/DIANA_FEA" title="DIANA FEA">DIANA</a></li>
+<li><a href="/wiki/FEATool_Multiphysics" title="FEATool Multiphysics">FEATool Multiphysics</a></li>
+<li><a href="/wiki/Femap" title="Femap">Femap</a></li>
+<li><a href="/wiki/Fluent,_Inc." class="mw-redirect" title="Fluent, Inc.">Fluent</a></li>
+<li><a href="/wiki/FORAN_System" title="FORAN System">FORAN</a></li>
+<li><a href="/wiki/JCMsuite" title="JCMsuite">JCMsuite</a></li>
+<li><a href="/wiki/JMAG" title="JMAG">JMAG</a></li>
+<li><a href="/wiki/KIVA_(software)" title="KIVA (software)">KIVA</a></li>
+<li><a href="/wiki/LS-DYNA" title="LS-DYNA">LS-DYNA</a></li>
+<li><a href="/w/index.php?title=MSC_ADAMS&amp;action=edit&amp;redlink=1" class="new" title="MSC ADAMS (page does not exist)">MSC ADAMS</a></li>
+<li><a href="/wiki/Nastran" title="Nastran">Nastran</a></li>
+<li><a href="/wiki/PTC_Creo" title="PTC Creo">PTC Creo</a></li>
+<li><a href="/wiki/RFEM" title="RFEM">RFEM</a></li>
+<li><a href="/wiki/SESAM_(FEM)" title="SESAM (FEM)">Sesam</a></li>
+<li><a class="mw-selflink selflink">Siemens NX</a></li>
+<li><a href="/wiki/SolidWorks" title="SolidWorks">SolidWorks</a></li>
+<li><a href="/wiki/StressCheck" title="StressCheck">StressCheck</a></li>
+<li><a href="/wiki/Working_Model" title="Working Model">Working Model</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cloud-based</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SimScale" title="SimScale">SimScale</a></li>
+<li><a href="/wiki/CONSELF" title="CONSELF">CONSELF</a></li>
+<li><a href="/wiki/Onshape" title="Onshape">Onshape</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1391
+Cached time: 20200602022722
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 0.620 seconds
+Preprocessor visited node count: 2677/1000000
+Post‐expand include size: 101996/2097152 bytes
+Template argument size: 3553/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 109612/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.218/10.000 seconds
+Lua memory usage: 4.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  529.403      1 -total
+ 51.38%  271.995      1 Template:Reflist
+ 36.37%  192.532     27 Template:Cite_web
+ 24.59%  130.183      2 Template:Infobox
+ 22.85%  120.993      1 Template:Infobox_software
+  8.50%   44.978      1 Template:Dead_link
+  8.19%   43.369      1 Template:Commons_category-inline
+  7.12%   37.719      1 Template:Fix
+  6.55%   34.701      2 Template:Category_handler
+  6.05%   32.028      2 Template:Start_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28287964-0!canonical and timestamp 20200602022721 and revision id 955597550
+ -->
+</div>

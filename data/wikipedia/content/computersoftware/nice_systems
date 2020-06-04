@@ -1,0 +1,201 @@
+<div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Renice" redirects here. For the Polish village, see <a href="/wiki/Renice,_Poland" title="Renice, Poland">Renice, Poland</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nice_(Unix)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Nice%22+Unix">"Nice"&#160;Unix</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Nice%22+Unix+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Nice%22+Unix+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Nice%22+Unix+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Nice%22+Unix">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Nice%22+Unix&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">November 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><span></span>
+</p>
+<table class="infobox vevent" style="width:22em"><caption class="summary">nice</caption><tbody><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td><a href="/wiki/AT%26T_Bell_Laboratories" class="mw-redirect" title="AT&amp;T Bell Laboratories">AT&amp;T Bell Laboratories</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Initial release</th><td>November&#160;1973<span class="noprint">&#59;&#32;46&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1973-11</span>)</span></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td><a href="/wiki/Unix" title="Unix">Unix</a> and <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td><a href="/wiki/Command_(computing)" title="Command (computing)">Command</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td><a href="/wiki/Coreutils" class="mw-redirect" title="Coreutils">coreutils</a>: <a href="/wiki/GNU_General_Public_License#Version_3" title="GNU General Public License">GNU GPL v3</a></td></tr></tbody></table>
+<p><tt><b>nice</b></tt> is a program found on <a href="/wiki/Unix" title="Unix">Unix</a> and <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> <a href="/wiki/Operating_system" title="Operating system">operating systems</a> such as <a href="/wiki/Linux" title="Linux">Linux</a>. It directly maps to a <a href="/wiki/Kernel_(computer_science)" class="mw-redirect" title="Kernel (computer science)">kernel</a> <a href="/wiki/System_call" title="System call">call</a> of the same name. <tt>nice</tt> is used to invoke a <a href="/wiki/List_of_Unix_commands" title="List of Unix commands">utility</a> or <a href="/wiki/Shell_script" title="Shell script">shell script</a> with a particular <a href="/wiki/Scheduling_priority" class="mw-redirect" title="Scheduling priority">CPU priority</a>, thus giving the <a href="/wiki/Process_(computing)" title="Process (computing)">process</a> more or less CPU time than other processes. A niceness of -20 is the highest priority and 19 is the lowest priority. The default niceness for processes is inherited from its parent process and is usually 0.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Use_and_effect"><span class="tocnumber">1</span> <span class="toctext">Use and effect</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Similar_commands"><span class="tocnumber">2</span> <span class="toctext">Similar commands</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Use_and_effect">Use and effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=1" title="Edit section: Use and effect">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><tt>nice</tt> becomes useful when several processes are demanding more resources than the <a href="/wiki/Central_processing_unit" title="Central processing unit">CPU</a> can provide. In this state, a higher-priority process will get a larger chunk of the CPU time than a lower-priority process. Only the <a href="/wiki/Superuser" title="Superuser">superuser</a> (root) may set the niceness to a lower value (i.e. a higher priority). On Linux it is possible to change <tt>/etc/security/limits.conf</tt> to allow other users or groups to set low nice values.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>If a user wanted to compress a large file, but not slow down other processes, they might run the following:
+</p>
+<div class="mw-highlight mw-highlight-lang-console mw-content-ltr" dir="ltr"><pre><span></span><span class="gp">$</span> nice -n <span class="m">19</span> tar cvzf archive.tgz largefile
+</pre></div>
+<p>The exact mathematical effect of setting a particular niceness value for a process depends on the details of how the <a href="/wiki/Scheduling_(computing)" title="Scheduling (computing)">scheduler</a> is designed on that implementation of Unix. A particular operating system's scheduler will also have various heuristics built into it (e.g. to favor processes that are mostly I/O-bound over processes that are CPU-bound). As a simple example, when two otherwise identical CPU-bound processes are running simultaneously on a single-CPU Linux system, each one's share of the CPU time will be proportional to 20 − <i>p</i>, where <i>p</i> is the process' priority. Thus a process, run with <tt>nice +15</tt>, will receive 25% of the CPU time allocated to a normal-priority process: (20 − 15)/(20 − 0) = 0.25.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> On the <a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a> 4.x scheduler, on the other hand, the ratio in the same example is about ten to one.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Similar_commands">Similar commands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=2" title="Edit section: Similar commands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The related <tt><b>renice</b></tt> program can be used to change the priority of a process that is already running.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Linux also has an <tt><b>ionice</b></tt> program, which affects scheduling of I/O rather than CPU time.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=3" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "nice" comes from the fact that the program's purpose is to modify a process niceness value. The true priority, used to decide how much CPU time to concede to each process, is calculated by the kernel process scheduler from a combination of the different processes' niceness values and other data, such as the amount of <a href="/wiki/I/O" class="mw-redirect" title="I/O">I/O</a> done by each process.
+</p><p>The name "niceness" originates from the idea that a process with a higher niceness value is "nicer" to other processes in the system:
+</p>
+<blockquote><p>This is why the <i>nice</i> number is usually called <i>niceness</i>: a job with a high niceness is very kind to the users of your system (i.e., it runs at low priority), while a job with little niceness utilises more of the CPU. The term "niceness" could be considered awkward. Unfortunately, it's the only term that is both accurate (<i>nice</i> numbers are used to compute the priorities but are not the priorities themselves) and avoids horrible <a href="/wiki/Circumlocutions" class="mw-redirect" title="Circumlocutions">circumlocutions</a> ("increasing the priority means lowering the priority...").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></p></blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><tt><b><a href="/wiki/Kill_(command)" title="Kill (command)">kill</a></b></tt></li>
+<li><tt><b><a href="/wiki/Ps_(Unix)" title="Ps (Unix)">ps</a></b></tt></li>
+<li><tt><b><a href="/wiki/Top_(software)" title="Top (software)">top</a></b></tt></li>
+<li><tt><b>ionice</b></tt> from <a href="/wiki/Util-linux" title="Util-linux">util-linux</a> (see manual for disk storage I/O priorities)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="plainlinksneverexpand"><code><a rel="nofollow" class="external text" href="https://www.mankier.com/5/limits.conf">limits.conf(5)</a></code></span>&#160;–&#160;<a href="/wiki/Linux" title="Linux">Linux</a> File Formats <a href="/wiki/Man_page" title="Man page">Manual</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFCollegeBaer_GalvinGagne2013" class="citation book">College, Abraham Silberschatz, Yale University, Peter Baer Galvin, Pluribus Networks, Greg Gagne, Westminster; Baer Galvin, Peter; Gagne, Greg (2013). <i>Operating system concepts</i> (Ninth edition. ed.). Hoboken, N.J: Wiley. p.&#160;294. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-118-06333-0" title="Special:BookSources/978-1-118-06333-0"><bdi>978-1-118-06333-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Operating+system+concepts&amp;rft.place=Hoboken%2C+N.J&amp;rft.pages=294&amp;rft.edition=Ninth+edition.&amp;rft.pub=Wiley&amp;rft.date=2013&amp;rft.isbn=978-1-118-06333-0&amp;rft.aulast=College&amp;rft.aufirst=Abraham+Silberschatz%2C+Yale+University%2C+Peter+Baer+Galvin%2C+Pluribus+Networks%2C+Greg+Gagne%2C+Westminster&amp;rft.au=Baer+Galvin%2C+Peter&amp;rft.au=Gagne%2C+Greg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANice+%28Unix%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="plainlinksneverexpand"><code><a rel="nofollow" class="external text" href="https://www.mankier.com/1/renice">renice(1)</a></code></span>&#160;–&#160;<a href="/wiki/Linux" title="Linux">Linux</a> General Commands <a href="/wiki/Man_page" title="Man page">Manual</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="plainlinksneverexpand"><code><a rel="nofollow" class="external text" href="https://www.mankier.com/1/ionice">ionice(1)</a></code></span>&#160;–&#160;<a href="/wiki/Linux" title="Linux">Linux</a> General Commands <a href="/wiki/Man_page" title="Man page">Manual</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Jerry Peek, Shelley Powers, Tim O'Reilly and Mike Loukides (2007). <i>Unix Power Tools</i>. O'Reilly, p. 507.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nice_(Unix)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="plainlinksneverexpand"><code><a rel="nofollow" class="external text" href="https://www.opengroup.org/onlinepubs/9699919799/utilities/nice.html">nice</a></code></span>&#58;&#160;invoke a utility with an altered nice value&#160;–&#160;Commands &amp; Utilities Reference, <a href="/wiki/Single_Unix_Specification" class="mw-redirect" title="Single Unix Specification">The Single UNIX Specification</a>, Issue 7 from <a href="/wiki/The_Open_Group" title="The Open Group">The Open Group</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Unix_command-line_interface_programs_and_shell_builtins" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Unix_commands" title="Template:Unix commands"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Unix_commands" title="Template talk:Unix commands"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Unix_commands&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Unix_command-line_interface_programs_and_shell_builtins" style="font-size:114%;margin:0 4em"><a href="/wiki/Unix" title="Unix">Unix</a> <a href="/wiki/Command-line_interface" title="Command-line interface">command-line interface</a> programs and <a href="/wiki/Shell_builtin" title="Shell builtin">shell builtins</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">File system</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cat_(Unix)" title="Cat (Unix)">cat</a></li>
+<li><a href="/wiki/Chmod" title="Chmod">chmod</a></li>
+<li><a href="/wiki/Chown" title="Chown">chown</a></li>
+<li><a href="/wiki/Chgrp" title="Chgrp">chgrp</a></li>
+<li><a href="/wiki/Cksum" title="Cksum">cksum</a></li>
+<li><a href="/wiki/Cmp_(Unix)" title="Cmp (Unix)">cmp</a></li>
+<li><a href="/wiki/Cp_(Unix)" title="Cp (Unix)">cp</a></li>
+<li><a href="/wiki/Dd_(Unix)" title="Dd (Unix)">dd</a></li>
+<li><a href="/wiki/Du_(Unix)" title="Du (Unix)">du</a></li>
+<li><a href="/wiki/Df_(Unix)" title="Df (Unix)">df</a></li>
+<li><a href="/wiki/File_(command)" title="File (command)">file</a></li>
+<li><a href="/wiki/Fuser_(Unix)" title="Fuser (Unix)">fuser</a></li>
+<li><a href="/wiki/Ln_(Unix)" title="Ln (Unix)">ln</a></li>
+<li><a href="/wiki/Ls" title="Ls">ls</a></li>
+<li><a href="/wiki/Mkdir" title="Mkdir">mkdir</a></li>
+<li><a href="/wiki/Mv" title="Mv">mv</a></li>
+<li><a href="/wiki/Pax_(Unix)" title="Pax (Unix)">pax</a></li>
+<li><a href="/wiki/Pwd" title="Pwd">pwd</a></li>
+<li><a href="/wiki/Rm_(Unix)" title="Rm (Unix)">rm</a></li>
+<li><a href="/wiki/Rmdir" title="Rmdir">rmdir</a></li>
+<li><a href="/wiki/Split_(Unix)" title="Split (Unix)">split</a></li>
+<li><a href="/wiki/Tee_(command)" title="Tee (command)">tee</a></li>
+<li><a href="/wiki/Touch_(command)" title="Touch (command)">touch</a></li>
+<li><a href="/wiki/Type_(Unix)" title="Type (Unix)">type</a></li>
+<li><a href="/wiki/Umask" title="Umask">umask</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Processes</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/At_(command)" title="At (command)">at</a></li>
+<li><a href="/wiki/Job_control_(Unix)#Commands" title="Job control (Unix)">bg</a></li>
+<li><a href="/wiki/Cron" title="Cron">crontab</a></li>
+<li><a href="/wiki/Job_control_(Unix)#Commands" title="Job control (Unix)">fg</a></li>
+<li><a href="/wiki/Kill_(command)" title="Kill (command)">kill</a></li>
+<li><a class="mw-selflink selflink">nice</a></li>
+<li><a href="/wiki/Ps_(Unix)" title="Ps (Unix)">ps</a></li>
+<li><a href="/wiki/Time_(Unix)" title="Time (Unix)">time</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">User environment</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Env" title="Env">env</a></li>
+<li><a href="/wiki/Exit_(command)" title="Exit (command)">exit</a></li>
+<li><a href="/wiki/Logname" title="Logname">logname</a></li>
+<li><a href="/wiki/Mesg" title="Mesg">mesg</a></li>
+<li><a href="/wiki/Talk_(software)" title="Talk (software)">talk</a></li>
+<li><a href="/wiki/Tput" title="Tput">tput</a></li>
+<li><a href="/wiki/Uname" title="Uname">uname</a></li>
+<li><a href="/wiki/Who_(Unix)" title="Who (Unix)">who</a></li>
+<li><a href="/wiki/Write_(Unix)" title="Write (Unix)">write</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Text processing</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AWK" title="AWK">awk</a></li>
+<li><a href="/wiki/Basename" title="Basename">basename</a></li>
+<li><a href="/wiki/Comm" title="Comm">comm</a></li>
+<li><a href="/wiki/Csplit" title="Csplit">csplit</a></li>
+<li><a href="/wiki/Cut_(Unix)" title="Cut (Unix)">cut</a></li>
+<li><a href="/wiki/Diff" title="Diff">diff</a></li>
+<li><a href="/wiki/Dirname" title="Dirname">dirname</a></li>
+<li><a href="/wiki/Ed_(text_editor)" title="Ed (text editor)">ed</a></li>
+<li><a href="/wiki/Ex_(text_editor)" title="Ex (text editor)">ex</a></li>
+<li><a href="/wiki/Fold_(Unix)" title="Fold (Unix)">fold</a></li>
+<li><a href="/wiki/Head_(Unix)" title="Head (Unix)">head</a></li>
+<li><a href="/wiki/Iconv" title="Iconv">iconv</a></li>
+<li><a href="/wiki/Join_(Unix)" title="Join (Unix)">join</a></li>
+<li><a href="/wiki/M4_(computer_language)" title="M4 (computer language)">m4</a></li>
+<li><a href="/wiki/More_(command)" title="More (command)">more</a></li>
+<li><a href="/wiki/Nl_(Unix)" title="Nl (Unix)">nl</a></li>
+<li><a href="/wiki/Paste_(Unix)" title="Paste (Unix)">paste</a></li>
+<li><a href="/wiki/Patch_(Unix)" title="Patch (Unix)">patch</a></li>
+<li><a href="/wiki/Printf_(Unix)" title="Printf (Unix)">printf</a></li>
+<li><a href="/wiki/Sed" title="Sed">sed</a></li>
+<li><a href="/wiki/Sort_(Unix)" title="Sort (Unix)">sort</a></li>
+<li><a href="/wiki/Strings_(Unix)" title="Strings (Unix)">strings</a></li>
+<li><a href="/wiki/Tail_(Unix)" title="Tail (Unix)">tail</a></li>
+<li><a href="/wiki/Tr_(Unix)" title="Tr (Unix)">tr</a></li>
+<li><a href="/wiki/Uniq" title="Uniq">uniq</a></li>
+<li><a href="/wiki/Vi" title="Vi">vi</a></li>
+<li><a href="/wiki/Wc_(Unix)" title="Wc (Unix)">wc</a></li>
+<li><a href="/wiki/Xargs" title="Xargs">xargs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Shell_builtin" title="Shell builtin">Shell builtins</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alias_(command)" title="Alias (command)">alias</a></li>
+<li><a href="/wiki/Cd_(command)" title="Cd (command)">cd</a></li>
+<li><a href="/wiki/Echo_(command)" title="Echo (command)">echo</a></li>
+<li><a href="/wiki/Test_(Unix)" title="Test (Unix)">test</a></li>
+<li><a href="/wiki/Environment_variable#unset_command" title="Environment variable">unset</a></li>
+<li><a href="/wiki/Wait_(command)" title="Wait (command)">wait</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Searching</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Find_(Unix)" title="Find (Unix)">find</a></li>
+<li><a href="/wiki/Grep" title="Grep">grep</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Documentation</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Man_page" title="Man page">man</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_development" title="Software development">Software development</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ar_(Unix)" title="Ar (Unix)">ar</a></li>
+<li><a href="/wiki/Ctags" title="Ctags">ctags</a></li>
+<li><a href="/wiki/Lex_(software)" title="Lex (software)">lex</a></li>
+<li><a href="/wiki/Make_(software)" title="Make (software)">make</a></li>
+<li><a href="/wiki/Nm_(Unix)" title="Nm (Unix)">nm</a></li>
+<li><a href="/wiki/Strip_(Unix)" title="Strip (Unix)">strip</a></li>
+<li><a href="/wiki/Yacc" title="Yacc">yacc</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bc_(programming_language)" title="Bc (programming language)">bc</a></li>
+<li><a href="/wiki/Cal_(Unix)" title="Cal (Unix)">cal</a></li>
+<li><a href="/wiki/Expr" title="Expr">expr</a></li>
+<li><a href="/wiki/System_V_printing_system" title="System V printing system">lp</a></li>
+<li><a href="/wiki/Od_(Unix)" title="Od (Unix)">od</a></li>
+<li><a href="/wiki/Sleep_(command)" title="Sleep (command)">sleep</a></li>
+<li><a href="/wiki/True_and_false_(commands)" title="True and false (commands)">true and false</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b>Categories</b>
+<ul><li><a href="/wiki/Category:Standard_Unix_programs" title="Category:Standard Unix programs">Standard Unix programs</a></li>
+<li><a href="/wiki/Category:Unix_SUS2008_utilities" title="Category:Unix SUS2008 utilities">Unix SUS2008 utilities</a></li></ul></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Unix_commands" title="List of Unix commands">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20200602031212
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.296 seconds
+Real time usage: 0.463 seconds
+Preprocessor visited node count: 1468/1000000
+Post‐expand include size: 36790/2097152 bytes
+Template argument size: 2321/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6054/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.205      1 -total
+ 29.86%  121.285      1 Template:Infobox_Software
+ 26.61%  108.093      1 Template:Infobox
+ 23.84%   96.824      1 Template:Reflist
+ 18.66%   75.801      1 Template:Refimprove
+ 18.15%   73.745      1 Template:Cite_book
+ 16.27%   66.096      1 Template:Ambox
+ 10.52%   42.752      1 Template:Redirect
+  7.92%   32.183      1 Template:Find_sources_mainspace
+  6.96%   28.283      1 Template:Unix_commands
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:988410-0!canonical and timestamp 20200602031211 and revision id 956139195
+ -->
+</div>

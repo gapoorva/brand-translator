@@ -1,0 +1,1 @@
+simpana install adamo

@@ -1,0 +1,1 @@
+intertype aspectj tangled

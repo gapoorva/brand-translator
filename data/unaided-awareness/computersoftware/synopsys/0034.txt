@@ -1,0 +1,1 @@
+systemc vhdl behavioral

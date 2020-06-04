@@ -1,0 +1,187 @@
+<div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the network architecture. For the technology company, see <a href="/wiki/ACTIVE_Network,_LLC_(company)" class="mw-redirect" title="ACTIVE Network, LLC (company)">ACTIVE Network, LLC (company)</a>.</div>
+<p><b>Active networking</b> is a communication pattern that allows packets flowing through a <a href="/wiki/Telecommunications_network" title="Telecommunications network">telecommunications network</a> to dynamically modify the operation of the network.
+</p><p>Active network architecture is composed of execution environments (similar to a <a href="/wiki/Unix_shell" title="Unix shell">unix shell</a> that can execute active packets), a <a href="/wiki/Node_(networking)" title="Node (networking)">node</a> <a href="/wiki/Operating_system" title="Operating system">operating system</a> capable of supporting one or more execution environments.
+It also consists of active hardware, capable of routing or switching as well as executing code within active packets.
+This differs from the traditional network architecture which seeks robustness and stability by attempting to remove complexity and the ability to change its fundamental operation from underlying network components.  <a href="/wiki/Network_processor" title="Network processor">Network processors</a> are one means of implementing active networking concepts. Active networks have also been implemented as <a href="/wiki/Overlay_network" title="Overlay network">overlay networks</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#What_does_it_offer?"><span class="tocnumber">1</span> <span class="toctext">What does it offer?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_it_relates_to_other_networking_paradigms"><span class="tocnumber">2</span> <span class="toctext">How it relates to other networking paradigms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Active_networking_and_software-defined_networking"><span class="tocnumber">2.1</span> <span class="toctext">Active networking and software-defined networking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Fundamental_challenges"><span class="tocnumber">3</span> <span class="toctext">Fundamental challenges</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Nanoscale_active_networks"><span class="tocnumber">4</span> <span class="toctext">Nanoscale active networks</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span id="What_does_it_offer.3F"></span><span class="mw-headline" id="What_does_it_offer?">What does it offer?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=1" title="Edit section: What does it offer?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Active networking allows the possibility of highly tailored and rapid "real-time" changes to the underlying network operation.
+This enables such ideas as sending code along with packets of information allowing the data to change its form (code) to match the channel characteristics.
+The smallest program that can generate a sequence of data can be found in the definition of <a href="/wiki/Kolmogorov_complexity" title="Kolmogorov complexity">Kolmogorov complexity</a>.
+The use of real-time <a href="/wiki/Genetic_Algorithm" class="mw-redirect" title="Genetic Algorithm">genetic algorithms</a> within the network to compose network services is also enabled by active networking.
+</p>
+<h2><span class="mw-headline" id="How_it_relates_to_other_networking_paradigms">How it relates to other networking paradigms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=2" title="Edit section: How it relates to other networking paradigms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Active networking relates to other networking paradigms primarily based upon how computing and communication are partitioned in the architecture.
+</p>
+<h3><span class="mw-headline" id="Active_networking_and_software-defined_networking">Active networking and software-defined networking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=3" title="Edit section: Active networking and software-defined networking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Active networking is an approach to network architecture with in-network programmability. The name derives from a comparison with network approaches advocating minimization of in-network processing, based on design advice such as the "end-to-end argument". Two major approaches were conceived: programmable network elements ("switches") and capsules, a programmability approach that places computation within packets traveling through the network. Treating packets as programs later became known as "active packets".  <a href="/wiki/Software-defined_networking" title="Software-defined networking">Software-defined networking</a> decouples the system that makes decisions about where traffic is sent (the control plane) from the underlying systems that forward traffic to the selected destination (the data plane). The concept of a programmable control plane originated at the University of Cambridge in the Systems Research Group, where (using virtual circuit identifiers available in Asynchronous Transfer Mode switches) multiple virtual control planes were made available on a single physical switch. Control Plane Technologies (CPT) was founded to commercialize this concept.
+</p>
+<h2><span class="mw-headline" id="Fundamental_challenges">Fundamental challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=4" title="Edit section: Fundamental challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Active network research addresses the nature of how best to incorporate extremely dynamic capability within networks.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In order to do this, active network research must address the problem of optimally allocating computation versus communication within communication networks.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> A similar problem related to the compression of code as a measure of complexity is addressed via <a href="/wiki/Algorithmic_information_theory" title="Algorithmic information theory">algorithmic information theory</a>.
+</p><p>One of the challenges of active networking has been the inability of information theory to mathematically model the active network paradigm and enable active network engineering. This is due to the active nature of the network in which communication packets contain code that dynamically change the operation of the network. Fundamental advances in information theory are required in order to understand such networks.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Active-Network-Information-Theory.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Active-Network-Information-Theory.svg/400px-Active-Network-Information-Theory.svg.png" decoding="async" width="400" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Active-Network-Information-Theory.svg/600px-Active-Network-Information-Theory.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Active-Network-Information-Theory.svg/800px-Active-Network-Information-Theory.svg.png 2x" data-file-width="960" data-file-height="720" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Active-Network-Information-Theory.svg" class="internal" title="Enlarge"></a></div>An active network channel uses executable code in the packet to impact the channel controlling the relationship between the transmitted sequence <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.98ex; height:2.176ex;" alt="X"/></span> and the received sequence <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle Y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>Y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/961d67d6b454b4df2301ac571808a3538b3a6d3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.171ex; width:1.773ex; height:2.009ex;" alt="Y"/></span>. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.98ex; height:2.176ex;" alt="X"/></span> is composed of a data portion <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X^{data}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+            <mi>a</mi>
+            <mi>t</mi>
+            <mi>a</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X^{data}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c25e58d94236ac8cfddb2234907b5f2e579ee84" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.422ex; height:2.676ex;" alt="X^{{data}}"/></span> and a code portion <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X^{code}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X^{code}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f33760b73b411eca985713891d6789a99ee4fc7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.364ex; height:2.676ex;" alt="X^{{code}}"/></span>. Upon incorporation of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X^{code}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>X</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>c</mi>
+            <mi>o</mi>
+            <mi>d</mi>
+            <mi>e</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X^{code}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f33760b73b411eca985713891d6789a99ee4fc7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.364ex; height:2.676ex;" alt="X^{{code}}"/></span>, the channel medium may change its operational state and capabilities.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div></div></div></div>
+<h2><span class="mw-headline" id="Nanoscale_active_networks">Nanoscale active networks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=5" title="Edit section: Nanoscale active networks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the limit in reduction of transistor size is reached with current technology, active networking concepts are being explored as a more efficient means accomplishing computation and communication.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> More on this can be found in <a href="/wiki/IEEE_P1906.1" title="IEEE P1906.1">nanoscale networking</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Nanoscale_networking" class="mw-redirect" title="Nanoscale networking">Nanoscale networking</a></li>
+<li><a href="/wiki/Network_processing" class="mw-redirect" title="Network processing">Network processing</a></li>
+<li><a href="/wiki/Software-defined_networking" title="Software-defined networking">Software-defined networking</a> (SDN)</li>
+<li><a href="/wiki/Communication_complexity" title="Communication complexity">Communication complexity</a></li>
+<li><a href="/wiki/Kolmogorov_complexity" title="Kolmogorov complexity">Kolmogorov complexity</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBush,_S._F.2005" class="citation journal">Bush, S. F. (2005). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110711081415/http://www.research.ge.com/~bushsf/pdfpapers/01546098.pdf">"A Simple Metric for Ad Hoc Network Adaptation"</a> <span class="cs1-format">(PDF)</span>. <i>IEEE Journal on Selected Areas in Communications Journal</i> (23): 2272–2287. Archived from <a rel="nofollow" class="external text" href="http://www.research.ge.com/~bushsf/pdfpapers/01546098.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-11.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Journal+on+Selected+Areas+in+Communications+Journal&amp;rft.atitle=A+Simple+Metric+for+Ad+Hoc+Network+Adaptation&amp;rft.issue=23&amp;rft.pages=2272-2287&amp;rft.date=2005&amp;rft.au=Bush%2C+S.+F.&amp;rft_id=http%3A%2F%2Fwww.research.ge.com%2F~bushsf%2Fpdfpapers%2F01546098.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+networking" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFBush,_S._F.2002" class="citation journal">Bush, S. F. (2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110711081443/http://www.research.ge.com/~bushsf/pdfpapers/01003518.pdf">"Active Virtual Network Management Prediction: Complexity as a Framework for Prediction, Optimization, and Assurance"</a> <span class="cs1-format">(PDF)</span>. <i>Proceedings of the 2002 DARPA Active Networks Conference and Exposition (DANCE 2002)</i>. IEEE Computer Society Press: 534–553. Archived from <a rel="nofollow" class="external text" href="http://www.research.ge.com/~bushsf/pdfpapers/01003518.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-11.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+2002+DARPA+Active+Networks+Conference+and+Exposition+%28DANCE+2002%29&amp;rft.atitle=Active+Virtual+Network+Management+Prediction%3A+Complexity+as+a+Framework+for+Prediction%2C+Optimization%2C+and+Assurance&amp;rft.pages=534-553&amp;rft.date=2002&amp;rft.au=Bush%2C+S.+F.&amp;rft_id=http%3A%2F%2Fwww.research.ge.com%2F~bushsf%2Fpdfpapers%2F01003518.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+networking" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFBush2011" class="citation journal">Bush, Stephen F. (2011). "Toward in vivo nanoscale communication networks: utilizing an active network architecture". <i>Front. Comput. Sci</i>. <b>5</b>: 316–326. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11704-011-0116-9">10.1007/s11704-011-0116-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Front.+Comput.+Sci.&amp;rft.atitle=Toward+in+vivo+nanoscale+communication+networks%3A+utilizing+an+active+network+architecture&amp;rft.volume=5&amp;rft.pages=316-326&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1007%2Fs11704-011-0116-9&amp;rft.aulast=Bush&amp;rft.aufirst=Stephen+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+networking" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFBush2011" class="citation journal">Bush, Stephen F. (2011). "Toward in vivo nanoscale communication networks: utilizing an active network architecture". <i>Front. Comput. Sci</i>. <b>5</b>: 316–326. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11704-011-0116-9">10.1007/s11704-011-0116-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Front.+Comput.+Sci.&amp;rft.atitle=Toward+in+vivo+nanoscale+communication+networks%3A+utilizing+an+active+network+architecture&amp;rft.volume=5&amp;rft.pages=316-326&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1007%2Fs11704-011-0116-9&amp;rft.aulast=Bush&amp;rft.aufirst=Stephen+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+networking" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">``NANA: A Nanoscale Active Network Architecture<i> by Patwardhan, J. P.; Dwyer, C. L.; Lebeck, A. R. &amp; Sorin, D. J., ACM Journal on Emerging Technologies in Computing Systems (JETC), ACM Journal on Emerging Technologies in Computing Systems) Vol. 2, No. 1, Pages 1–30, January 2006, 3, 1–31.</i></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Nanoscale Communication Networks, Bush, S. F., <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-60807-003-9" title="Special:BookSources/978-1-60807-003-9">978-1-60807-003-9</a>,  Artech House, 2010 <a rel="nofollow" class="external free" href="https://www.amazon.com/Nanoscale-Communication-Networks-Stephen-Bush/dp/1608070034">https://www.amazon.com/Nanoscale-Communication-Networks-Stephen-Bush/dp/1608070034</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Towards an Active Network Architecture</i> (1996), <a href="/wiki/David_L._Tennenhouse" title="David L. Tennenhouse">David L. Tennenhouse</a>, et al., Computer Communication Review</li>
+<li><i>Active Networks and Active Network Management: A Proactive Management Framework</i> by Stephen F. Bush and Amit Kulkarni, Kluwer Academic/Plenum Publishers, New York, Boston, Dordrecht, London, Moscow, 2001, 196 pp. Hardbound, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-306-46560-4" title="Special:BookSources/0-306-46560-4">0-306-46560-4</a>.</li>
+<li><i>Programmable Networks for IP Service Deployment"  </i>by Galis, A., Denazis, S., Brou, C., Klein, C.- Artech House Books, London, June 20;, 450 pp. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58053-745-6" title="Special:BookSources/1-58053-745-6">1-58053-745-6</a>.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_networking&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://videolectures.net/contrib07_bush_ian/">Introduction to Active Networks (video)</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1349
+Cached time: 20200601213705
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.216 seconds
+Real time usage: 0.303 seconds
+Preprocessor visited node count: 1111/1000000
+Post‐expand include size: 12221/2097152 bytes
+Template argument size: 1685/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26143/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 2.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.631      1 -total
+ 69.51%  178.388      1 Template:Reflist
+ 38.05%   97.639      2 Template:Cite_paper
+ 28.09%   72.088      3 Template:ISBN
+ 21.90%   56.206      1 Template:About
+  9.48%   24.325      3 Template:Catalog_lookup_link
+  7.40%   18.986      3 Template:Error-small
+  6.24%   16.017      3 Template:Small
+  3.05%    7.823      9 Template:Yesno-no
+  3.03%    7.774      2 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3723923-0!canonical!math=5 and timestamp 20200601213705 and revision id 915056275
+ -->
+</div>

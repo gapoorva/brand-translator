@@ -1,0 +1,1 @@
+pointcuts aspectoriented aspect
